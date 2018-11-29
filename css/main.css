@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+}
+
+.graph {
+	display: flex;
+}
